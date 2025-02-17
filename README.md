@@ -8,7 +8,7 @@ An e-paper display project for showing real-time public transport information in
 
 - Raspberry Pi Zero
 - Waveshare 7.5 Inch E-Paper Display Panel V2 (800x480)
-- Fotoram Tallinn (Clas Ohlson picture frame)
+- Fotoram Tallinn (Clas Ohlson picture frame 13x18)
 - Micro USB charger
 
 ## Functionality
