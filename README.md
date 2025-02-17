@@ -39,6 +39,8 @@ wget https://files.pythonhosted.org/packages/5f/57/df1c9157c8d5a05117e455d66fd7c
 tar -xzf pytz-2025.1.tar.gz
 cd pytz-2025.1
 python3 setup.py install --user
+mkdir project
+git clone https://github.com/Corallo/Skane-busstop.git
 ```
 
 
